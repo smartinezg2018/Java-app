@@ -3,7 +3,7 @@ Este programa funciona como herramienta de denuncia, llamado de emergencia, soli
 En cada caso se realiza un tratamiento de datos diferente, por lo que nuestra respuesta será coherente con la importancia de la denuncia.
 
 
-
+Corre en Java 17 desde netbeans.
 
 Consideraciones antes de inicar el programa:
 
